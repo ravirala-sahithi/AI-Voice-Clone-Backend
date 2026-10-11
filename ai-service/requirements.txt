@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn[standard]
+python-multipart
+transformers>=4.39
+torch>=2.2
+librosa>=0.10.2
+soundfile
+imageio-ffmpeg
